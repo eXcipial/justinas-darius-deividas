@@ -1,0 +1,17 @@
+{
+  "name": "some-kind-of-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=2010",
+    "dev1": "dead-server --host=localhost --port=2011",
+    "dev2": "dead-server --host=localhost --port=2012"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
